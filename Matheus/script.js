@@ -51,7 +51,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 /*==================== TYPD JS area ======================*/
 const typed = new Typed('.multiple-text', {
-    strings: ['Desenvolvedor Backend','Desenvolvedor Backend','Desenvolvedor Backend'],
+    strings: ['Desenvolvedor de Software','Desenvolvedor de Software','Desenvolvedor de Software'],
     typeSpeed:100,
     backSpeed:100,
     backDelay:100,
